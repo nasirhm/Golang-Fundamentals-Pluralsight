@@ -23,4 +23,4 @@ $ go run structs.go
 The best part, Concurrency:
 $ go run concurrency.go
 ```
-Comments are used to describe the concepts.
+Comments are used to describe the concepts in the respective files.
